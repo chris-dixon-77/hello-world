@@ -1,3 +1,4 @@
 # hello-world
-another test repisotory
-learning Git, Terraform and AWS - devops stuff!
+another test repository
+learning Git, Packer and AWS - devops stuff!
+#newbie #exciting
